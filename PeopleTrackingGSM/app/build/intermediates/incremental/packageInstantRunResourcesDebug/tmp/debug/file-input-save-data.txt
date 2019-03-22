@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Feb 09 13:31:13 IST 2019
+1.base=E\:\\Siddu_Param_Mahesh_Projects\\YT\\PeopleTrackingGSM\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=fonts/Roboto.ttf
+0.set=ASSET
+0.base=E\:\\Siddu_Param_Mahesh_Projects\\YT\\PeopleTrackingGSM\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+1.path=fonts/Pacifico.ttf

@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6665d64a32a0518dae3b69caafa23e77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\1b52e86ba5f8539136840895ba1ed508\AndroidManifest.xml:2:1-11:12
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\b2e432a535db14c80a578f23c26e9f92\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\c3b3178bb73701b9cd17c7ab41a65b4f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d0bca004432b7c7baeb0d6b69992038\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a0b70800981e1e6d3ce4e2ef7f53cc79\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\657e573ad65c4e9deeb42c0630dc38cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\49a6d8f362fb72d2e2ed81eff6016464\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\461beb1a3e08beaec1e3b2a2a599c04f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c9f29eace3682e548bc5799e4d6d664e\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0a534e50767fd32fe4d2cb3c729a954f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\17a5f1786c9c1b77506abb59ec1b96ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\417ea0a41794bb3064df91732cb367ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ac9ed077d4e0cee5e019dfc25a9533a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a2fbc8106d1aed049c38537303b3397\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\785270b33627e1e6e04db2eff835238f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\46fd624544d4b404920ecf122e337c28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac10e693e6feb531200c2af6c82787d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\24249b2a63f06148a0f4b40c78522330\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4486f07cba5dcfb70ff460306ad13b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\01bd7366af995dc57f1167aa5ffbf368\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\727c529a32fe7b2bd1847b3521c28ed2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\600153bbf8d736ef81efb2099203807e\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:4:5-75
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:4:22-72
+uses-permission#android.permission.READ_SMS
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:6:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a0b70800981e1e6d3ce4e2ef7f53cc79\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a0b70800981e1e6d3ce4e2ef7f53cc79\AndroidManifest.xml:9:5-20
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c9f29eace3682e548bc5799e4d6d664e\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c9f29eace3682e548bc5799e4d6d664e\AndroidManifest.xml:9:5-10:19
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\24249b2a63f06148a0f4b40c78522330\AndroidManifest.xml:10:5-20
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\24249b2a63f06148a0f4b40c78522330\AndroidManifest.xml:10:5-20
+	android:supportsRtl
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:10:9-43
+	android:icon
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.iiht.alphatech.peopletrackinggsm.activity.MainActivity
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:13:9-16:59
+	android:label
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:14:13-50
+activity#com.iiht.alphatech.peopletrackinggsm.activity.LoginActivity
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:17:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:21:27-73
+activity#com.iiht.alphatech.peopletrackinggsm.activity.RegisterActivity
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:24:9-63
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:24:19-60
+activity#com.iiht.alphatech.peopletrackinggsm.activity.UsersListActivity
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:25:19-61
+activity#com.iiht.alphatech.peopletrackinggsm.activity.SplashScreenActivity
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:theme
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:26:19-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:28:13-32:29
+category#android.intent.category.LAUNCHER
+ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6665d64a32a0518dae3b69caafa23e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\6665d64a32a0518dae3b69caafa23e77\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\1b52e86ba5f8539136840895ba1ed508\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ViksaaSkool:AwesomeSplash:v1.0.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\AwesomeSplash-v1.0.0.aar\1b52e86ba5f8539136840895ba1ed508\AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\b2e432a535db14c80a578f23c26e9f92\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\library-1.1.3.aar\b2e432a535db14c80a578f23c26e9f92\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\c3b3178bb73701b9cd17c7ab41a65b4f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:1.0.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\library-1.0.1.aar\c3b3178bb73701b9cd17c7ab41a65b4f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d0bca004432b7c7baeb0d6b69992038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d0bca004432b7c7baeb0d6b69992038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a0b70800981e1e6d3ce4e2ef7f53cc79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\a0b70800981e1e6d3ce4e2ef7f53cc79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\657e573ad65c4e9deeb42c0630dc38cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\657e573ad65c4e9deeb42c0630dc38cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\49a6d8f362fb72d2e2ed81eff6016464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\49a6d8f362fb72d2e2ed81eff6016464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\461beb1a3e08beaec1e3b2a2a599c04f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\461beb1a3e08beaec1e3b2a2a599c04f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c9f29eace3682e548bc5799e4d6d664e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jorgecastilloprz:fillableloaders:1.02] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\fillableloaders-1.02.aar\c9f29eace3682e548bc5799e4d6d664e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0a534e50767fd32fe4d2cb3c729a954f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0a534e50767fd32fe4d2cb3c729a954f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\17a5f1786c9c1b77506abb59ec1b96ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\17a5f1786c9c1b77506abb59ec1b96ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\417ea0a41794bb3064df91732cb367ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\417ea0a41794bb3064df91732cb367ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ac9ed077d4e0cee5e019dfc25a9533a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5ac9ed077d4e0cee5e019dfc25a9533a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a2fbc8106d1aed049c38537303b3397\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\1a2fbc8106d1aed049c38537303b3397\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\785270b33627e1e6e04db2eff835238f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\785270b33627e1e6e04db2eff835238f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\46fd624544d4b404920ecf122e337c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\46fd624544d4b404920ecf122e337c28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac10e693e6feb531200c2af6c82787d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\ac10e693e6feb531200c2af6c82787d2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\24249b2a63f06148a0f4b40c78522330\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ozodrukh:CircularReveal:1.1.1] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\CircularReveal-1.1.1.aar\24249b2a63f06148a0f4b40c78522330\AndroidManifest.xml:6:5-8:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4486f07cba5dcfb70ff460306ad13b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b4486f07cba5dcfb70ff460306ad13b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\01bd7366af995dc57f1167aa5ffbf368\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\01bd7366af995dc57f1167aa5ffbf368\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\727c529a32fe7b2bd1847b3521c28ed2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\727c529a32fe7b2bd1847b3521c28ed2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\600153bbf8d736ef81efb2099203807e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Mahesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\600153bbf8d736ef81efb2099203807e\AndroidManifest.xml:20:5-44
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		ADDED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Siddu_Param_Mahesh_Projects\YT\PeopleTrackingGSM\app\src\main\AndroidManifest.xml

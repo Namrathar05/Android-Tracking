@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Siddu_Param_Mahesh_Projects\\YT\\PeopleTrackingGSM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mahesh\\.gradle\\caches\\transforms-1\\files-1.1\\AwesomeSplash-v1.0.0.aar\\1b52e86ba5f8539136840895ba1ed508\\res\\values-w820dp\\values-w820dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "147",
+                        "endColumns": "57",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
